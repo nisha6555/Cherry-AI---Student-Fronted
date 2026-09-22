@@ -1,0 +1,10 @@
+{
+  "name": "Cherry AI Student Classroom",
+  "description": "AI Socratic Student Classroom, Blackboard, Quiz Arena, Study Library, and Student Account Hub.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
